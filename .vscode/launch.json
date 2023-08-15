@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbsoluteValue",
+            "request": "launch",
+            "mainClass": "AbsoluteValue",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Attendance",
+            "request": "launch",
+            "mainClass": "Attendance",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Bonus",
+            "request": "launch",
+            "mainClass": "Bonus",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "Discount",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "Grade",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "GreatestTwo",
+            "request": "launch",
+            "mainClass": "GreatestTwo",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "IfElse",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "IfElseIf",
+            "request": "launch",
+            "mainClass": "IfElseIf",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Literals",
+            "request": "launch",
+            "mainClass": "Literals",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "OperatorArithmetic",
+            "request": "launch",
+            "mainClass": "OperatorArithmetic",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "OperatorLogical",
+            "request": "launch",
+            "mainClass": "OperatorLogical",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "OperatorRelational",
+            "request": "launch",
+            "mainClass": "OperatorRelational",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "PrimitiveDataType",
+            "request": "launch",
+            "mainClass": "PrimitiveDataType",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "SquareCheck",
+            "request": "launch",
+            "mainClass": "SquareCheck",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "SwitchAdvance",
+            "request": "launch",
+            "mainClass": "SwitchAdvance",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "Java tutorial_6257e297"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "Java tutorial_6257e297"
+        }
+    ]
+}
