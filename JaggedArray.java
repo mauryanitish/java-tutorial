@@ -16,7 +16,7 @@ public class JaggedArray {
         for( int n[][] : num){
             for(int m[] : n){
                 for(int o : m){ 
-                    System.out.println(o+" ");
+                    System.out.print(o+" ");
                 }
                 System.out.println();
             }
